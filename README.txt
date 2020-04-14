@@ -15,5 +15,13 @@ Guia de instalação--> O arquivo contido no diretório é um arquivo .py, ou se
 linguagem Python e um editor/interpretador de código. Não é possível instalar o programa a partir do arquivo fornecido, pois o mesmo é
 apenas um arquivo de código. Para instalá-lo será preciso gerar um arquivo .exe ou .deb.
 
+Funcionalidades já adicionadas:
+--> Checagem de repetição de senhas (01/03/20)
+--> Escolha do usuário dos tipos de caractéries presentes nas senhas (07/03/20)
+
+Funcionalidades a serem adicionadas:
+--> Guardar todas as senhas criadas em cada sessão
+--> Gravar senhas em arquivo .txt
+
 Autoria do Código--> João Víctor Costa de Oliveira (StormBreaker1726)
 Email de Contato--> oliveira.joao@engenharia.ufjf.br
