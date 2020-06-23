@@ -22,6 +22,7 @@ Funcionalidades já adicionadas:
 Funcionalidades a serem adicionadas:
 --> Guardar todas as senhas criadas em cada sessão
 --> Gravar senhas em arquivo .txt
+--> Criar códigos de erro para cada pergunta que posso ser respondida errada durante a execução do programa
 
 Autoria do Código--> João Víctor Costa de Oliveira (StormBreaker1726)
 Email de Contato--> oliveira.joao@engenharia.ufjf.br
