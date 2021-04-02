@@ -17,9 +17,13 @@ linguagem Python e um editor/interpretador de código. Não é possível instala
 apenas um arquivo de código. Para instalá-lo será preciso gerar um arquivo .exe ou .deb.
 
 Funcionalidades já adicionadas:
+
 --> Checagem de repetição de senhas (01/03/20)
+
 --> Escolha do usuário dos tipos de caractéries presentes nas senhas (07/03/20)
+
 --> Guardar todas as senhas criadas em cada sessão (01/04/21)
+
 --> Gravar senhas em arquivo .txt (01/04/21)
 
 Funcionalidades a serem adicionadas:
