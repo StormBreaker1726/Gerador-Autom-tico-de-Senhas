@@ -8,8 +8,11 @@ uma nova senha. Se o usuário desejar, o programa executa novamente todo o proce
 e fecha.
 
 IDE utilizada--> VSCode e Spyder
+
 Sistema Operacional--> Windows e Linux
+
 Bibliotecas--> os, random, string
+
 Linguagem--> Python
 
 Guia de instalação--> O arquivo contido no diretório é um arquivo .py, ou seja, para executá-lo será preciso ter um compilador para a
@@ -31,6 +34,7 @@ Funcionalidades a serem adicionadas:
 --> Criar códigos de erro para cada pergunta que posso ser respondida errada durante a execução do programa
 
 Autoria do Código--> João Víctor Costa de Oliveira (StormBreaker1726)
+
 Email de Contato--> oliveira.joao@engenharia.ufjf.br
 
 ENGENHEIRO DE VERDADE CRIA, NÃO COPIA!!!
